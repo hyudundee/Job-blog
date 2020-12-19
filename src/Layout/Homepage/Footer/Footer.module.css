@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+
+.Container {
+	color: white;
+	background-color: #dc3545;
+	margin: 0;
+	bottom: 0;
+}
+
+.li {
+	font-size: 12px;
+}
+
+.hr {
+	color: white;
+}

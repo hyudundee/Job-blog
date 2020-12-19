@@ -1,0 +1,22 @@
+.CardTitle {
+	font-size: 18px;
+	text-align: left;
+}
+
+.CardText {
+	color: grey;
+	font-size: 14px;
+	text-align: left;
+}
+
+.CardDate {
+	color: orange;
+	font-size: 12px;
+	padding-top: 0px;
+	text-align: left;
+}
+
+.Link {
+	color: rgb(72, 72, 72);
+	font-weight: 50;
+}
